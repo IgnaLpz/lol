@@ -74,7 +74,8 @@
                                     <br> /api/DC
                                     <br> /api/Spider-Man
                                     <br> /api/Batman
-                                    <br> La respuesta será en formato JSON <b>Bv</b>
+                                    <br> /api/Terminator
+                                    <br> Son pocos, pero es trabajo honesto, La respuesta será en formato JSON <b>Bv</b>
                                 </div>
                             </div>
                         </div>
