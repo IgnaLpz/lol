@@ -19,4 +19,7 @@ El marco de Laravel es un software de código abierto con [licencia MIT](https:/
 
 ## Contacto
 Jose David Vite Bautista <br>
-[Twitter](https://twitter.com/Zeiya24)
+[Twitter](https://twitter.com/Zeiya24) <br>
+
+Juan Ignacio Lopez Zepeda <br>
+
